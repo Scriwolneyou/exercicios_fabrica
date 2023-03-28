@@ -1,0 +1,45 @@
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ Charmeleon ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+===( Tipo )===
+	"types": [
+		{
+			"slot": 1,
+			"type": {
+				"name": "fire",
+				"url": "https://pokeapi.co/api/v2/type/10/"
+			}
+		}
+	],
+
+===( Evolução )===
+{"name":"charizard","url":"https://pokeapi.co/api/v2/pokemon-species/6/"}
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ Growlithe ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+===( Tipo )===
+	"types": [
+		{
+			"slot": 1,
+			"type": {
+				"name": "fire",
+				"url": "https://pokeapi.co/api/v2/type/10/"
+			}
+		}
+	],
+===( Evolução )===
+{"name":"arcanine","url":"https://pokeapi.co/api/v2/pokemon-species/59/"}
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ Ponyta ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+===( Tipo )===
+	"types": [
+		{
+			"slot": 1,
+			"type": {
+				"name": "fire",
+				"url": "https://pokeapi.co/api/v2/type/10/"
+			}
+		}
+	],
+===( Evolução )===
+{"name":"rapidash","url":"https://pokeapi.co/api/v2/pokemon-species/78/"}
