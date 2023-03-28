@@ -1,0 +1,18 @@
+models.py
+é a representação di objeto no banco de dados imaginando a representação de um objeto
+	exemplo: bicicleta (tipo: de criança de adulto, preço...)
+
+serializers.py
+pegar um objeto jsonm e tr5ansforma'lo em um objeto ()modelo de dados python e vice versa
+	é literalmente parsear os dados, pois o pythonnao ira entender o formato json, e nem o browser vai enmtender o formato de objeto python
+	então, vestimos uma fantasia a ele.
+
+views.py
+onde fica funçoes ou classes que sao chamadas quando se acessa uma url
+	as views enviam e recebe dados (request, response)
+	literalmente um carteiro
+
+urls.py
+é o caminho
+	é onde se registra a url do seu serviço
+
