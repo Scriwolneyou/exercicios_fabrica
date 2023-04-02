@@ -13,6 +13,6 @@ A operação de atualização (update) espera um ID como parâmetro e realiza um
 
 A operação de remoção (delete) também espera um ID como parâmetro. Caso encontre a entidade com o determinado ID, ele realiza a remoção da entidade no banco.
 ### Build e Start
-Para iniciar o sistema, é necessário criar um ambiente (venv) com o comando "python -m venv venv" e ativar o ambiente (venv) com o comando ".\venv\Scripts\activate". Em seguida, é preciso fazer a instalação dos requisitos com o comando "pip install -r requirements.txt" e, antes de iniciar o servidor, fazer as migrações com o comando "python manage.py migrate". Por fim, o servidor pode ser iniciado com o comando "python manage.py runserver".
+Para iniciar o sistema, é necessário criar um ambiente (venv) com o comando "python -m venv venv" e ativar o ambiente (venv) com o comando ".\venv\Scripts\activate". Em seguida, é preciso fazer a instalação dos requisitos com o comando "pip install -r uber\requirements.txt" e, antes de iniciar o servidor, fazer as migrações com o comando "python uber\manage.py migrate". Por fim, o servidor pode ser iniciado com o comando "python uber\manage.py runserver".
 ### Conclusão
 Em resumo, o projeto oferece uma solução para o cadastro e gerenciamento de motoristas e veículos, possibilitando a criação de uma aplicação semelhante ao Uber de forma simples.

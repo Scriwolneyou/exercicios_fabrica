@@ -14,7 +14,7 @@ def createView(request):
     form = VehicleForm()
 
     if request.method == 'POST':
-        form - VehicleForm(request.POST)
+        form = VehicleForm(request.POST)
 
         if form.is_valid():
             form.save()
